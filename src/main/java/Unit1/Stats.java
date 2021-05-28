@@ -5,7 +5,7 @@ import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
 /**
- * 1.3.1.4
+ * P77
  * 背包
  */
 public class Stats {
