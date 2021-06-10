@@ -1,6 +1,4 @@
-package Unit1;
-
-import java.util.Optional;
+package com.whendada.algorithm.Unit1;
 
 /**
  * P95

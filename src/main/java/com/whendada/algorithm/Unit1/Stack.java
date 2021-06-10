@@ -1,4 +1,4 @@
-package Unit1;
+package com.whendada.algorithm.Unit1;
 
 /**
  * P94

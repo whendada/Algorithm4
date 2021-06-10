@@ -1,4 +1,4 @@
-package Unit1;
+package com.whendada.algorithm.Unit1;
 
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
