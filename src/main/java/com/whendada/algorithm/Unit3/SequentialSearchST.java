@@ -1,5 +1,8 @@
 package com.whendada.algorithm.Unit3;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * 顺序查找（基于无序链表）
  */
@@ -50,5 +53,9 @@ public class SequentialSearchST<Key, Value> {
             count++;
         }
         return count;
+    }
+
+    public static void main(String[] args) {
+
     }
 }

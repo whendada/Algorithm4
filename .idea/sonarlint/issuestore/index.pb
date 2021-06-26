@@ -13,3 +13,5 @@ c
 3src/main/java/com/whendada/algorithm/Unit1/Bag.java,5/2/52640969fe74f974c779117da8bbd052b305372b
 i
 9src/main/java/com/whendada/algorithm/Unit2/Selection.java,1/8/18bd7fdccb361431a9f888779764088bfcce25bb
+i
+9src/main/java/com/whendada/algorithm/Unit2/Insertion.java,2/0/20749a6b5f01d0869c0e6b081221d2c38a7cd7c6
