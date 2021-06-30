@@ -1,8 +1,5 @@
 package com.whendada.algorithm.Unit3;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * 顺序查找（基于无序链表）
  */

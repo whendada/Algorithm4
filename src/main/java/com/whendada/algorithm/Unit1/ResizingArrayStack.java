@@ -13,7 +13,7 @@ public class ResizingArrayStack<Item> {
     private Item[] a = (Item[]) new Object[1];
 
     // 元素数量
-    private int N = 0;;
+    private int N = 0;
 
     public boolean isEmpty() {
         return N == 0;
