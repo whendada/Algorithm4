@@ -9,5 +9,9 @@ c
 3src/main/java/com/whendada/algorithm/Unit1/Bag.java,5/2/52640969fe74f974c779117da8bbd052b305372b
 i
 9src/main/java/com/whendada/algorithm/Unit2/Selection.java,1/8/18bd7fdccb361431a9f888779764088bfcce25bb
-i
-9src/main/java/com/whendada/algorithm/Unit2/Insertion.java,2/0/20749a6b5f01d0869c0e6b081221d2c38a7cd7c6
+e
+5src/main/java/com/whendada/algorithm/Unit2/Shell.java,9/0/9004841b4f0fe41034f6d855f95dd01bbda710b5
+e
+5src/main/java/com/whendada/algorithm/Unit2/Merge.java,3/1/31fd761fc6d3bf89765735191515908a38abde1e
+e
+5src/main/java/com/whendada/algorithm/Unit2/Quick.java,2/d/2d1b1fab4696c949ff25f26fc706c36ad9d8fc8d
